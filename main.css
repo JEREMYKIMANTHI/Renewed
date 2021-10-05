@@ -1,0 +1,21 @@
+h1{
+    background-color: forestgreen;
+}
+h2{
+    background-color: rgb(66, 134, 125);
+    font-style: italic;
+
+}
+.title{
+    font-size: 90px;
+}
+.highlight{
+    font-style: italic;
+}
+.highlightnew{
+    background-color: mediumorchid;
+}
+.september{
+    background-color: blue;
+    font-size:x-large;
+}
